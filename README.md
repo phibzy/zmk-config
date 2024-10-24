@@ -10,6 +10,6 @@ Info on this process in more detail can be found [here]("https://zmk.dev/docs/us
 
 # Keymaps
 
-[General info]("https://zmk.dev/docs/keymaps")
+[General info](https://zmk.dev/docs/keymaps)
 
-[Keycodes]("https://zmk.dev/docs/keymaps/list-of-keycodes")
+[Keycodes](https://zmk.dev/docs/keymaps/list-of-keycodes)
