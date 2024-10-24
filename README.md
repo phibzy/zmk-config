@@ -6,7 +6,7 @@ This will trigger github actions which will then generate a firmware file which 
 
 Note that if only the keymap is being changed, only the left side needs to be flashed.
 
-Info on this process in more detail can be found [here]("https://zmk.dev/docs/user-setup")
+Info on this process in more detail can be found [here](https://zmk.dev/docs/user-setup)
 
 # Keymaps
 
