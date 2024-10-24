@@ -1,5 +1,7 @@
 # How to Update Keymap
 
+*GUI tool for editing keymap [here](https://nickcoutsos.github.io/keymap-editor/)*
+
 Edit the `config/corneish_zen.keymap` file, commit changes, then push to repo.
 
 This will trigger github actions which will then generate a firmware file which can then be flashed onto the board when it's in bootloader mode.
