@@ -39,9 +39,9 @@
             //                    | GUI | LWR | SPC |   | ENT | RSE  | ALT |
 
             bindings = <
-&mt GRAVE ESC  &kp Q  &kp W  &kp E     &kp R  &kp T     &kp Y      &kp U  &kp I      &lt 4 O  &kp P     &kp BSPC
-&mt LCTRL TAB  &kp A  &kp S  &kp D     &kp F  &kp G     &lt 5 H    &kp J  &kp K      &kp L    &kp SEMI  &kp ENTER
-&kp LSHFT      &kp Z  &kp X  &kp C     &kp V  &kp B     &kp N      &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp GRAVE
+&mt GRAVE ESC  &kp Q  &kp W  &kp E     &kp R  &kp T     &kp Y      &kp U  &kp I      &lt 4 O  &kp P                       &kp BSPC
+&mt LCTRL TAB  &kp A  &kp S  &kp D     &kp F  &kp G     &lt 5 H    &kp J  &kp K      &kp L    &mt SINGLE_QUOTE SEMICOLON  &kp ENTER
+&kp LSHFT      &kp Z  &kp X  &kp C     &kp V  &kp B     &kp N      &kp M  &kp COMMA  &kp DOT  &kp FSLH                    &kp GRAVE
                              &kp LGUI  &mo 1  &tog 3    &kp SPACE  &mo 2  &kp RALT
             >;
         };
