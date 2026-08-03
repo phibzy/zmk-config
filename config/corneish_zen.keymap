@@ -120,6 +120,8 @@
 &none  &none   &none           &none           &none         &none              &none           &none           &none         &none            &none  &none
                                &none           &none         &none              &none           &none           &none
             >;
+
+            label = "MAUS";
         };
     };
 };
